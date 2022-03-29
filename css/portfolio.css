@@ -1,0 +1,48 @@
+table{
+  width: 105%;
+  text-align: center;
+  table-layout: fixed;
+}
+
+td:nth-child(1){
+  width: 10%;
+}
+
+td:nth-child(2){
+  width: 50%;
+}
+
+td:nth-child(3){
+  width: 40%;
+}
+
+td:nth-child(4){
+  width: 10%;
+}
+
+td:nth-child(5){
+  width: 10%;
+}
+
+tr{
+  height: 2rem;
+}
+
+tr:hover{
+  border: 1px solid #bdbdbd;
+}
+
+p{
+  opacity: 0.7;
+  font-size:75%;
+}
+
+a > i:nth-child(1){
+  color: #bdbdbd;
+}
+
+a > i:hover{
+  color: #eeab1aea;
+}
+
+
